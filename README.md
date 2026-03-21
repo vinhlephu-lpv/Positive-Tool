@@ -4,6 +4,7 @@ Customer Guide for Windows EXE distribution.
 
 This document is customer-facing only.
 Internal/admin operations (build scripts, key generation, key signing, private-key handling) are intentionally excluded.
+verison 1.0.2
 
 ---
 

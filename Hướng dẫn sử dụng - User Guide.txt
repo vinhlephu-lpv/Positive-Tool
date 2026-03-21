@@ -1,0 +1,31 @@
+Tiếng Việt:
+Lần đầu download Tool này về, sau đây là những lưu ý quan trọng cho bạn để có thể sử dung Tool một cách dễ dàng nhất:
+- Bạn hãy giữ cho rn-tool.exe và rn-tool-laucher.exe chung folder.
+- Chạy rn-tool-laucher.exe chọn lệnh "rn-tool license machine-id" hoặc "r + lệnh tương ứng" để lấy id máy, sau đó nhắn tin và gửi id cho mình để mình ký key và gửi license cho bạn mở khoá Tool, phí ký key là 50 VNĐ hoặc 2 USD cho 1 năm sử dung. Bạn có thể mua gói vĩnh viễn là 100 VNĐ hoặc 4 USD. Cảm ơn bạn!
+- Sau khi nhận được lincense.txt từ mình, bạn cần để file license.txt vào chung folder với rn-tool.exe và rn-tool-laucher.exe. Sau đó chạy Tool rn-tool-laucher.exe và chọn "a" để mở khoá Tool. Chúc bạn sử dung Tool vui vẻ!!!
+
+Thông tin Tool:
+
+Tác Giả: Dev Ga Mờ.
+GitHub: https://github.com/vinhlephu-lpv/Positive-Tool
+Youtube: https://youtube.com/@devgamo2802?si=bMzZb5co-iQfG7VN
+Facebook: https://www.facebook.com/share/1N3z7ANk1e/
+
+Khuyến khích mọi người nhắn tin cho mình qua Fb!
+
+English:
+When you first download this tool, here are some important notes to help you use it easily:
+- Keep rn-tool.exe and rn-tool-laucher.exe in the same folder.
+
+- Run rn-tool-laucher.exe and select the command "rn-tool license machine-id" or "r + corresponding command" to get your machine ID. Then, text me the ID so I can sign the key and send you the license to unlock the tool. The key signing fee is 50 VND or 2 USD for one year of use. You can purchase a lifetime license for 100 VND or 4 USD. Thank you!
+
+- After receiving the license.txt file from me, you need to place the license.txt file in the same folder as rn-tool.exe and rn-tool-laucher.exe. Then, run the rn-tool-laucher.exe tool and select 'a' to unlock it. Enjoy using the tool!!!
+
+Credit:
+
+Author: Dev Ga Mo.
+GitHub: https://github.com/vinhlephu-lpv/Positive-Tool
+Youtube: https://youtube.com/@devgamo2802?si=bMzZb5co-iQfG7VN
+Facebook: https://www.facebook.com/share/1N3z7ANk1e/
+
+I encourage everyone to message me via Facebook!
